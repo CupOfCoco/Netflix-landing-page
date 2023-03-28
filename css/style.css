@@ -1,0 +1,103 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-image: url(../netflix.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.body1{
+  display: block;
+  color: red;
+}
+.body2{
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-width: thick;
+  border: 100px;
+}
+.sign{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+  padding-top: 30px;
+}
+button{
+  width: 370px;
+  height: 40px;
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+}
+.butt1{
+  text-align: center;
+}
+form{
+  text-align: center;
+  box-sizing: content-box;
+  padding: 20px;
+
+}
+.email{
+  padding-bottom: 10px;
+  padding-right: 185px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.password{
+  padding-bottom: 10px;
+  padding-right: 185px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.checkbox{
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 20px;
+  font-size: 12px;
+  color: white;
+}
+.next{
+  margin-left: 200px;
+}
+.word{
+  margin-top: 90px;
+  text-align: center;
+  margin-right: 160px;
+  color: white;
+}
+.cut{
+  font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: normal;
+  color: white;
+}
+.foot{
+  word-break: break-all;
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 10px;
+  color: white;
+  padding-bottom: 50px;
+}
+footer{
+  color: white;
+  text-align: right;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bolder;
+  margin-top: 20px;
+
+}
